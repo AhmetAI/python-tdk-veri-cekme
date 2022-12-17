@@ -9,15 +9,22 @@ https://chromedriver.chromium.org/downloads
 
 #### Eğer Programın Arkaplanda Çalışmasını istemiyorsanız
 
-    options = webdriver.ChromeOptions()
-    options.add_argument('--headless')
+```python
+options = webdriver.ChromeOptions()
+options.add_argument('--headless')
+```
+
 
 Kodunu silin ve
 
-    driver = webdriver.Chrome(options=options)
+```python
+driver = webdriver.Chrome(options=options)
 
+```
 Kodunu
 
-    driver = webdriver.Chrome()
+```python
+driver = webdriver.Chrome()
 
+```
 Olarak değiştirin.
