@@ -1,0 +1,1 @@
+# python-tdk-veri-cekme
