@@ -28,3 +28,5 @@ driver = webdriver.Chrome()
 
 ```
 Olarak değiştirin.
+
+#### Not: Projede selenium kütüphanesi kullanıldığı için eş zamanlı olarak siteye girip veriyi çekme işlemi yapılıyor. Bu nedenle bu işlemin hızı internet bağlantı hızınıza göre değişebilir.
