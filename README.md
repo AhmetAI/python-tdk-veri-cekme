@@ -2,8 +2,8 @@
 
 Bu programda yazdığımız kelimenin Türkçe bir anlamı olup olmadığını anlamak için  https://sozluk.gov.tr/ sitesinden yazdığımız kelimeyi aratıp eğer böyle bir türkçe kelime var ise anlamını ekrana yazdırmamıza yarıyor.
 
-## **Programın Çalışması İçin Gerekli Dosyaya Kurun**
-Programın çalışması için aşağıdaki linkten chrome sürümünüze uygun olan sürümü kurun ve python dosyanızın olduğu klasöre indirdiğiniz dosyayı atın.
+## **Programın Çalışması İçin Gerekli Programı Kurun**
+Programın çalışması için aşağıdaki linkten chrome sürümünüze uygun olan sürümü kurun ve python dosyanızın olduğu klasöre indirdiğiniz programı zip klasöründen çıkartıp  atın.
 
 https://chromedriver.chromium.org/downloads
 
