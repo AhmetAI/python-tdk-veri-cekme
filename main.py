@@ -34,7 +34,7 @@ elements = driver.find_elements(by='id', value='bulunan-gts0')
 
 # Eğer elementler listesi boş ise element yoktur.
 if len(elements) == 0:
-    print('Böyle Bir Kelime yok')
+    print('Böyle Bir Kelime Bulunamadı')
 else:
     print('Böyle Bir Kelime var')
 
